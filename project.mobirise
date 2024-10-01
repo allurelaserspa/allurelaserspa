@@ -72,7 +72,7 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "text": "We use cookies to give you the best experience.",
       "textButton": "GOT IT",
       "rejectText": "REJECT"
     },
@@ -83,7 +83,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "favicon": false,
-    "mbrsiteDomain": "7hqjem4psv",
+    "mbrsiteDomain": "e6u4zclhgb",
     "usedWebp": false,
     "robotsSwitcher": false
   },
