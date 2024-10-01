@@ -43,7 +43,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site 2024-08-13 18:32",
+    "name": "AllureLaserSpa",
     "versionFirst": "5.9.0",
     "siteFonts": [
       {
@@ -76,16 +76,11 @@
       "textButton": "GOT IT",
       "rejectText": "REJECT"
     },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "favicon": false,
-    "mbrsiteDomain": "e6u4zclhgb",
+    "mbrsiteDomain": "ic2ei2ekrr",
     "usedWebp": false,
-    "robotsSwitcher": false
+    "robotsSwitcher": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
